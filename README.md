@@ -12,9 +12,9 @@ Consider position x in string.
 
 2. If x-1 does exist:
 
-2.a. If x-1 is consonant:
+2. a. If x-1 is consonant:
 
-2.a.1. If x-2 does not exist, set x to vowel
+2. a. 1. If x-2 does not exist, set x to vowel
 
 2.a.2. If x-2 does exist:
 
