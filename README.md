@@ -34,4 +34,6 @@ Consider position x in string.
 
 (Note that these rules are still being worked on.)
 
+See program's comments for (slightly) more detailed description.
+
 The program's still a work-in-progress, so don't expect too much. But it works, so hey, enjoy!
