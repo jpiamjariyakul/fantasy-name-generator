@@ -8,29 +8,29 @@ The program takes the input of the length of the name the user wants, and genera
 
 Consider position x in string.
 
-1) If x-1 does not exist, set x to either consonant or vowel
+1. If x-1 does not exist, set x to either consonant or vowel
 
-2) If x-1 does exist:
+2. If x-1 does exist:
 
-2.a) If x-1 is consonant:
+2.a. If x-1 is consonant:
 
-2.a.1) If x-2 does not exist, set x to vowel
+2.a.1. If x-2 does not exist, set x to vowel
 
-2.a.2) If x-2 does exist:
+2.a.2. If x-2 does exist:
 
-2.a.2.a) If x-2 is consonant, set x to vowel
+2.a.2.a. If x-2 is consonant, set x to vowel
 
-2.a.2.b) If x-2 is vowel, set to either
+2.a.2.b. If x-2 is vowel, set to either
 
-2.b) If x-1 is vowel:
+2.b. If x-1 is vowel:
 
-2.b.1) If x-2 does not exist, set x to consonant
+2.b.1. If x-2 does not exist, set x to consonant
 
-2.b.2) If x-2 does exist:
+2.b.2. If x-2 does exist:
 
-2.b.2.a) If x-2 is consonant, set to either
+2.b.2.a. If x-2 is consonant, set to either
 
-2.b.2.b) If x-2 is vowel, set to consonant
+2.b.2.b. If x-2 is vowel, set to consonant
 
 (Note that these rules are still being worked on.)
 
