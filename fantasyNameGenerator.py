@@ -20,7 +20,7 @@ def run():
     #asks for length of name to generate
     IsValid = False
     while IsValid == False: #validates user input whether they're numeric and is greater than 0
-        length=input("Enter length of name to generate: ")
+        length=unicode(input("Enter length of name to generate: "))
         if (str(length) != "") and (length.isnumeric() == True) and (int(length) > 0):
             IsValid = True
             length = int(length)
